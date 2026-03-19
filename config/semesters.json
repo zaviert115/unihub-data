@@ -1,0 +1,16 @@
+{
+  "semesters": [
+    {
+      "id": "2026-S1",
+      "label": "Semester 1, 2026",
+      "start_date": "2026-02-23",
+      "end_date": "2026-06-20",
+      "weeks": 12,
+      "teaching_weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "mid_semester_break": {
+        "start": "2026-04-13",
+        "end": "2026-04-24"
+      }
+    }
+  ]
+}

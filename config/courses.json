@@ -1,0 +1,43 @@
+{
+  "current_semester": "2026-S1",
+  "semesters": {
+    "2026-S1": {
+      "start_date": "2026-02-23",
+      "end_date": "2026-06-20",
+      "courses": [
+        {
+          "code": "ENCN221",
+          "name": "Engineering Materials",
+          "ako_course_id": "",
+          "echo_section_id": "",
+          "colour": "#4C9EEB",
+          "lecturer": ""
+        },
+        {
+          "code": "EMTH210",
+          "name": "Engineering Mathematics 2",
+          "ako_course_id": "",
+          "echo_section_id": "",
+          "colour": "#F97316",
+          "lecturer": ""
+        },
+        {
+          "code": "ENCN241",
+          "name": "Structural Mechanics",
+          "ako_course_id": "",
+          "echo_section_id": "",
+          "colour": "#22C55E",
+          "lecturer": ""
+        },
+        {
+          "code": "CIVL140",
+          "name": "Civil Engineering Practice",
+          "ako_course_id": "",
+          "echo_section_id": "",
+          "colour": "#A855F7",
+          "lecturer": ""
+        }
+      ]
+    }
+  }
+}
