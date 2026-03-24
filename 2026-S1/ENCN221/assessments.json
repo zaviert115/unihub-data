@@ -1,0 +1,46 @@
+[
+  {
+    "id": "quiz_4506894",
+    "type": "quiz",
+    "title": "Module 1: Fundamental of Materials",
+    "due_date": "2026-03-05T08:59:00",
+    "open_date": null,
+    "description": "",
+    "max_grade": "8.00/8.00",
+    "url": "https://learn.canterbury.ac.nzview.php?id=4506894",
+    "course": "ENCN221"
+  },
+  {
+    "id": "quiz_4506895",
+    "type": "quiz",
+    "title": "Module 2: Metals",
+    "due_date": "2026-03-19T08:59:00",
+    "open_date": null,
+    "description": "",
+    "max_grade": "6.00/6.00",
+    "url": "https://learn.canterbury.ac.nzview.php?id=4506895",
+    "course": "ENCN221"
+  },
+  {
+    "id": "quiz_4506897",
+    "type": "quiz",
+    "title": "Module 3: Bitumen, Aggregates and Asphalt Mixes",
+    "due_date": "2026-03-27T17:00:00",
+    "open_date": null,
+    "description": "",
+    "max_grade": null,
+    "url": "https://learn.canterbury.ac.nzview.php?id=4506897",
+    "course": "ENCN221"
+  },
+  {
+    "id": "quiz_4506918",
+    "type": "quiz",
+    "title": "Practice Quiz for Module 3",
+    "due_date": "2026-05-02T14:10:00",
+    "open_date": null,
+    "description": "",
+    "max_grade": null,
+    "url": "https://learn.canterbury.ac.nzview.php?id=4506918",
+    "course": "ENCN221"
+  }
+]

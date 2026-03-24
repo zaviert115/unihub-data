@@ -1,0 +1,57 @@
+[
+  {
+    "id": "quiz_4438171",
+    "type": "quiz",
+    "title": "Chemistry Review, Self-assessment",
+    "due_date": "2026-03-27T23:59:00",
+    "open_date": null,
+    "description": "",
+    "max_grade": null,
+    "url": "https://learn.canterbury.ac.nzview.php?id=4438171",
+    "course": "ENCN281"
+  },
+  {
+    "id": "quiz_4636110",
+    "type": "quiz",
+    "title": "Chemistry Review, Self-assessment 2",
+    "due_date": "2026-03-27T23:59:00",
+    "open_date": null,
+    "description": "",
+    "max_grade": null,
+    "url": "https://learn.canterbury.ac.nzview.php?id=4636110",
+    "course": "ENCN281"
+  },
+  {
+    "id": "quiz_4438596",
+    "type": "quiz",
+    "title": "Water Quality Practice Quiz",
+    "due_date": "2026-06-24T22:00:00",
+    "open_date": null,
+    "description": "",
+    "max_grade": null,
+    "url": "https://learn.canterbury.ac.nzview.php?id=4438596",
+    "course": "ENCN281"
+  },
+  {
+    "id": "quiz_4438172",
+    "type": "quiz",
+    "title": "Units-Self-assessment",
+    "due_date": null,
+    "open_date": null,
+    "description": "",
+    "max_grade": "0.00/0.00",
+    "url": "https://learn.canterbury.ac.nzview.php?id=4438172",
+    "course": "ENCN281"
+  },
+  {
+    "id": "quiz_4438588",
+    "type": "quiz",
+    "title": "Ecosystem Quiz Practice",
+    "due_date": null,
+    "open_date": null,
+    "description": "",
+    "max_grade": "0.00/0.00",
+    "url": "https://learn.canterbury.ac.nzview.php?id=4438588",
+    "course": "ENCN281"
+  }
+]

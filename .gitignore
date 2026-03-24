@@ -1,0 +1,12 @@
+# Never commit these
+.env
+*.key
+*.enc
+
+# macOS
+.DS_Store
+
+# Large video files (transcripts + PDFs are fine)
+*.mp4
+*.mov
+*.mkv

@@ -1,0 +1,32 @@
+{
+  "code": "ENCN221",
+  "name": "Engineering Materials",
+  "ako_course_id": "25794",
+  "echo_section_id": "",
+  "colour": "#4C9EEB",
+  "lecturer": "",
+  "sections": [
+    {
+      "id": "0",
+      "name": "K\u0101inga | Course Home",
+      "summary": "",
+      "modules": [
+        {
+          "id": 4418058,
+          "name": "Announcements",
+          "modname": "forum",
+          "url": "https://learn.canterbury.ac.nz/mod/forum/view.php?id=4418058",
+          "visible": 1
+        },
+        {
+          "id": 4506830,
+          "name": "Announcements",
+          "modname": "forum",
+          "url": "https://learn.canterbury.ac.nz/mod/forum/view.php?id=4506830",
+          "visible": 1
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-03-24T02:42:19.014955+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "code": "ENCN281",
+  "name": "Environmental Engineering",
+  "ako_course_id": "25796",
+  "echo_section_id": "",
+  "colour": "#A855F7",
+  "lecturer": "",
+  "sections": [
+    {
+      "id": "0",
+      "name": "K\u0101inga | Course Home",
+      "summary": "",
+      "modules": [
+        {
+          "id": 4418062,
+          "name": "Announcements",
+          "modname": "forum",
+          "url": "https://learn.canterbury.ac.nz/mod/forum/view.php?id=4418062",
+          "visible": 1
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-03-24T02:42:22.859055+00:00"
+}

@@ -6,33 +6,33 @@
       "end_date": "2026-06-20",
       "courses": [
         {
-          "code": "ENCN221",
-          "name": "Engineering Materials",
-          "ako_course_id": "",
-          "echo_section_id": "",
-          "colour": "#4C9EEB",
-          "lecturer": ""
-        },
-        {
           "code": "EMTH210",
           "name": "Engineering Mathematics 2",
-          "ako_course_id": "",
+          "ako_course_id": "25735",
           "echo_section_id": "",
           "colour": "#F97316",
           "lecturer": ""
         },
         {
-          "code": "ENCN241",
-          "name": "Structural Mechanics",
-          "ako_course_id": "",
+          "code": "ENCN221",
+          "name": "Engineering Materials",
+          "ako_course_id": "25794",
+          "echo_section_id": "",
+          "colour": "#4C9EEB",
+          "lecturer": ""
+        },
+        {
+          "code": "ENCN231",
+          "name": "Solid Mechanics",
+          "ako_course_id": "25795",
           "echo_section_id": "",
           "colour": "#22C55E",
           "lecturer": ""
         },
         {
-          "code": "CIVL140",
-          "name": "Civil Engineering Practice",
-          "ako_course_id": "",
+          "code": "ENCN281",
+          "name": "Environmental Engineering",
+          "ako_course_id": "25796",
           "echo_section_id": "",
           "colour": "#A855F7",
           "lecturer": ""
